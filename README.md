@@ -1,0 +1,4 @@
+Snake-js
+========
+
+JavaScript game
